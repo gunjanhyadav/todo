@@ -56,5 +56,7 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
 
 
 
-
+```
+python manage.py runserver
+```
 
