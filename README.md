@@ -58,8 +58,12 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
  ```
  python manage.py runserver
  ```
- Then go to http://127.0.0.1:8000/ in your browser, Its Done!
+ Then go to http://127.0.0.1:8000/ in your browser,
+ 
+ 
  "todos": "http://127.0.0.1:8000/api/v1/
+ 
+ Its done!!
 
 
 
