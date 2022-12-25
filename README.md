@@ -14,17 +14,17 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
 
 - After installig the Python3, download the project in you local machine.
 
-# Virtual environment
-- Install virutal environment using 
+# Virtual environment (optional but recommended)
+- Go to the folder and install virutal environment using 
 
   ```
-    
+  pip install virtualenv
   ```
   
  - Create virtual environment using
- -
-  ```
  
+  ```
+ virtualenv venv (name_of_venv)
   ```
  
  # Run requirements.txt file
