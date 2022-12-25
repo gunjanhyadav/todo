@@ -26,9 +26,12 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
  
  # Run requirements.txt file
  Run the code in your terminal to get the requried libraries using 
- ''' 
+ 
+ ```
  pip install -r requirements.txt
- '''
+ 
+ ```
+
  # Migrations 
  Run the following code lines in your terminal 
  '''
@@ -57,6 +60,5 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
 
 
 ```
-python manage.py runserver
 ```
 
