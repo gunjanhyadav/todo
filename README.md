@@ -16,13 +16,16 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
 
 # Virtual environment
 - Install virutal environment using 
-  '''
-  pip
-  '''
+-
+  ```
+ 
+  ```
+  
  - Create virtual environment using
-  '''
-  pip
-  '''
+ -
+  ```
+ 
+  ```
  
  # Run requirements.txt file
  Run the code in your terminal to get the requried libraries using 
@@ -34,13 +37,15 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
 
  # Migrations 
  Run the following code lines in your terminal 
- '''
- python manage.py makemigrations
- '''
+
+ ```
+  python manage.py makemigrations
+ ```
  
- '''
- python manage.py migrate
- '''
+ ```
+  python manage.py migrate
+ ```
+
  
  # Create superuser
  '''
