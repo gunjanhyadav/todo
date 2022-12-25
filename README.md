@@ -16,9 +16,9 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
 
 # Virtual environment
 - Install virutal environment using 
--
+
   ```
- 
+    
   ```
   
  - Create virtual environment using
@@ -47,23 +47,22 @@ The user can do the following: GET, POST, PUT, DELETE and RETRIEVE the items.
  ```
 
  
- # Create superuser
- '''
- python manage.py createsuperuser
- '''
+ # Create superuser 
+  ```
+     python manage.py createsuperuser
+  ```
  
  # Run project
  Run the following code in your terminal 
  
- '''
+ ```
  python manage.py runserver
- 
- '''
+ ```
  Then go to http://127.0.0.1:8000/ in your browser, Its Done!
  "todos": "http://127.0.0.1:8000/api/v1/
 
 
 
-```
-```
+
+
 
